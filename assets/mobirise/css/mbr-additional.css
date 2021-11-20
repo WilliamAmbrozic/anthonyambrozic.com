@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
 
 
 
@@ -1237,6 +1237,33 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 767px) {
   .cid-sOvnZlRhkb .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sPhoDX8q7R {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+  background: linear-gradient(45deg, #232323, #232323);
+}
+.cid-sPhoDX8q7R .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sPhoDX8q7R .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sPhoDX8q7R .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sPhoDX8q7R .mbr-text {
     text-align: center;
   }
 }
