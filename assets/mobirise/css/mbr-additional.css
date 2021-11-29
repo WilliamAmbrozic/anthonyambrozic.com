@@ -1240,32 +1240,6 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-.cid-sPhoDX8q7R {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/swans-6121447-1920x1338.png");
-}
-.cid-sPhoDX8q7R .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-sPhoDX8q7R .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sPhoDX8q7R .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sPhoDX8q7R .mbr-text {
-    text-align: center;
-  }
-}
 .cid-sOvnBJfxcY {
   padding-top: 30px;
   padding-bottom: 30px;
