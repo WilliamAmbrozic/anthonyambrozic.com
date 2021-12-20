@@ -1118,45 +1118,13 @@ section.lazy-placeholder:after {
 .cid-sOvo1pohUm .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-sOvnIDrQ4W {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-sS5sM3rmyw {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-sOvnIDrQ4W .mbr-section-subtitle {
+.cid-sS5sM3rmyw P {
   color: #767676;
-}
-.cid-sOvnIDrQ4W .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-sOvnIDrQ4W .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-sOvnIDrQ4W .team-item .item-image img {
-  width: 100%;
-}
-.cid-sOvnIDrQ4W .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-sOvnIDrQ4W .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-sOvnIDrQ4W .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-sOvnIDrQ4W .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-sOvnIDrQ4W .team-item .item-caption {
-  background: #efefef;
 }
 .cid-sOvnaaPQjp {
   padding-top: 90px;
